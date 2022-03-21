@@ -21,7 +21,7 @@ section {
   align-items: center;
   justify-content: center;
   padding: 100px 0;
-  background-color: rgb(26, 26, 27);
+  background-color: gold;
 }
 .container {
   width: 100%;
@@ -110,7 +110,7 @@ form ion-icon {
   letter-spacing: 0.05rem;
   line-height: 2rem;
 }
-.container.initial .brand {
+/* .container.initial .brand {
   font-size: 7rem;
 }
 .container.initial form {
@@ -135,4 +135,4 @@ form ion-icon {
     padding: 10px;
     font-size: 2rem;
   }
-}
+} */
